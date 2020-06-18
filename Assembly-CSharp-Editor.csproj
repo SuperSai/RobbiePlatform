@@ -100,6 +100,12 @@
  <Reference Include="Unity.InternalAPIEngineBridge.024">
  <HintPath>E:/work/RobbiePlatform/Library/ScriptAssemblies/Unity.InternalAPIEngineBridge.024.dll</HintPath>
  </Reference>
+ <Reference Include="Cinemachine">
+ <HintPath>E:/work/RobbiePlatform/Library/ScriptAssemblies/Cinemachine.dll</HintPath>
+ </Reference>
+ <Reference Include="com.unity.cinemachine.editor">
+ <HintPath>E:/work/RobbiePlatform/Library/ScriptAssemblies/com.unity.cinemachine.editor.dll</HintPath>
+ </Reference>
  <Reference Include="UnityEngine.AIModule">
  <HintPath>D:/Unity3D/2018.4.23f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
  </Reference>
