@@ -98,6 +98,9 @@
      <None Include="Assets\Addons\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile.shader" />
      <None Include="Assets\Addons\TextMesh Pro\Resources\Shaders\TMP_Sprite.shader" />
      <None Include="Assets\Addons\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface.shader" />
+ <Reference Include="Cinemachine">
+ <HintPath>E:/work/RobbiePlatform/Library/ScriptAssemblies/Cinemachine.dll</HintPath>
+ </Reference>
  <Reference Include="Unity.DocZh.Editor">
  <HintPath>E:/work/RobbiePlatform/Library/ScriptAssemblies/Unity.DocZh.Editor.dll</HintPath>
  </Reference>
@@ -122,6 +125,9 @@
  <Reference Include="Unity.InternalAPIEditorBridge.023">
  <HintPath>E:/work/RobbiePlatform/Library/ScriptAssemblies/Unity.InternalAPIEditorBridge.023.dll</HintPath>
  </Reference>
+ <Reference Include="com.unity.cinemachine.editor">
+ <HintPath>E:/work/RobbiePlatform/Library/ScriptAssemblies/com.unity.cinemachine.editor.dll</HintPath>
+ </Reference>
  <Reference Include="Unity.TextMeshPro">
  <HintPath>E:/work/RobbiePlatform/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
  </Reference>
@@ -130,12 +136,6 @@
  </Reference>
  <Reference Include="Unity.InternalAPIEngineBridge.024">
  <HintPath>E:/work/RobbiePlatform/Library/ScriptAssemblies/Unity.InternalAPIEngineBridge.024.dll</HintPath>
- </Reference>
- <Reference Include="Cinemachine">
- <HintPath>E:/work/RobbiePlatform/Library/ScriptAssemblies/Cinemachine.dll</HintPath>
- </Reference>
- <Reference Include="com.unity.cinemachine.editor">
- <HintPath>E:/work/RobbiePlatform/Library/ScriptAssemblies/com.unity.cinemachine.editor.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.AIModule">
  <HintPath>D:/Unity3D/2018.4.23f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
